@@ -20,10 +20,8 @@
 #define DHTTYPE DHT21   // DHT 21 (AM2301)
 
 #ifndef STASSID
-//#define STASSID "Turksat_Kablonet_432F68_2.4"
-//#define STAPSK  "Q6nSVH8F"
-#define STASSID "Mese"
-#define STAPSK  "MeseBilisim1303**"
+#define STASSID "*****"
+#define STAPSK  "*****"
 #endif
 
 unsigned long onceki;
