@@ -103,7 +103,7 @@ void loop() {
 
       
 
-      // #384 Iothook Wifi Elektrik Kontrol
+      
 
       Serial.print("[HTTP] POST...\n");
       // start connection and send HTTP header and body
